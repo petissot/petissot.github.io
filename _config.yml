@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Pierre-Emmanuel Tissot"
 title_separator          : "-"
 name                     : &name "Pierre-Emmanuel Tissot"
-description              : &description "Étudiant ingénieur en Mathématiques Financières à CY Tech"
+description              : &description "Étudiant ingénieur en Mathématiques financières"
 url                      : https://petissot.github.io
 baseurl                  : ""
 repository               : "petissot/petissot.github.io"
@@ -22,7 +22,7 @@ author:
   avatar           : "profile.png"
   name             : "Pierre-Emmanuel Tissot"
   pronouns         :
-  bio              : "Étudiant ingénieur en Mathématiques Financières à CY Tech. Passionné de mathématiques, stage de recherche au Laboratoire AGM."
+  bio              : "Passionné par le monde financier et ses croisements avec les mathématiques"
   location         : "Paris, France"
   employer         : "CY Tech"
   uri              :
