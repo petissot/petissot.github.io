@@ -24,12 +24,12 @@ author:
   pronouns         :
   bio              : "Finance et maths"
   location         : "Paris, France"
-  employer         : "CY Tech"
+  employer         : 
   uri              :
   email            : "pierreemmanueltissot@gmail.com"
 
   # Academic websites
-  academia         :
+  academia         : "Cy Tech"
   arxiv            :
   googlescholar    :
   inspire-hep      :
