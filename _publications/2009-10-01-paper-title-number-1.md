@@ -7,5 +7,5 @@ excerpt: "Ce rapport de recherche a été rédigé dans le cadre du stage de fin
 Le rapport présente une introduction rigoureuse à la théorie des corps et à la théorie de Galois, en partant de notions préliminaires (groupes, anneaux, idéaux) jusqu'à la démonstration du théorème fondamental de Galois (la correspondance de Galois). Il inclut également une preuve du théorème de Steinitz sur l'existence et l'unicité de la clôture algébrique, ainsi qu'une preuve presque entièrement algébrique du théorème fondamental de l'algèbre."
 date: 2025-07-31
 venue: Laboratoire AGM, CY Cergy Paris Université
-paperurl: https://petissot.github.io/files/rapport-galois.pdf
+paperurl: https://petissot.github.io/files/rapport-stage-galois.pdf
 ---
