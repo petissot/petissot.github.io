@@ -1,11 +1,11 @@
 ---
-title: Introduction a la Theorie de Galois
+title: Introduction à la Théorie de Galois
 collection: publications
 category: manuscripts
 permalink: /publication/2025-06-01-introduction-theorie-galois
-excerpt: Rapport de recherche portant sur la theorie des corps et la theorie de Galois, redige au Laboratoire AGM sous la direction de Nicolas Arancibia Robert. Objectif principal - demontrer le Theoreme fondamental de Galois et le Theoreme de Steinitz.
+excerpt: Rapport de recherche portant sur la théorie des corps et la théorie de Galois, rédige au Laboratoire AGM sous la direction de Nicolas Arancibia Robert. Objectif principal de démontrer le théoreme fondamental de Galois et le théoreme de Steinitz.
 date: 2025-07-31
-venue: Laboratoire AGM, CY Cergy Paris Universite
+venue: Laboratoire AGM, CY Cergy Paris Université
 paperurl: https://petissot.github.io/files/rapport-galois.pdf
 ---
 
