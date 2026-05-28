@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "BIENVENUE !"
+title: "BONJOUR (et bienvenue) !"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Bonjour ! Je m'appelle Pierre-Emmanuel Tissot, et je suis actuellement étudiant ingénieur en Mathématiques Financières à CY Tech (ex-EISTI), après avoir suivi une classe préparatoire scientifique MP.
+Je m'appelle Pierre-Emmanuel Tissot, et je suis actuellement étudiant ingénieur en Mathématiques Financières à CY Tech (ex-EISTI), après avoir suivi une classe préparatoire scientifique MP.
 
 Étudiant les mathématiques et leur application à la finance, je m'intéresse notamment à la modélisation des risques et produits financiers, ainsi qu'aux théories mathématiques sous-jacentes. En particulier, je trouve les analogies possibles entre l'étude des phénomènes financiers et l'étude des phénomènes physiques passionnantes, et c'est sans doute prochainement que je bloguerai sur les liens entre la diffusion et les courbes de prix d'options !
 
