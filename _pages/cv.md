@@ -40,7 +40,7 @@ Compétences
 ======
 * Finance
   * Gestion de portefeuille
-  * Pricing d'options
+  * Contingent Claims Valuation
   * Gestion comptable
   * Notions en macroéconomie et microéconomie
   * Introduction à l'assurance
