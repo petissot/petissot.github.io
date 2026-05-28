@@ -42,14 +42,14 @@ Compétences
   * Gestion de portefeuille
   * Pricing d'options
   * Gestion comptable
-  * Macroéconomie et Microéconomie
+  * Notions en macroéconomie et microéconomie
   * Introduction à l'assurance
 * Programmation
   * Python (NumPy, Pandas, Matplotlib)
   * Excel, VBA
   * C++, R, Java, LaTeX
 * Mathématiques
-  * Probabilités & Statistiques
+  * Probabilités & Statistiques (dont Modèle linéaire)
   * Méthodes de Monte-Carlo
   * EDP
   * Optimisation linéaire et non-linéaire
