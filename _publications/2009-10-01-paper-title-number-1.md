@@ -4,7 +4,6 @@ collection: publications
 category: manuscripts
 permalink: /publication/2025-06-01-introduction-theorie-galois
 excerpt: "Rapport de recherche portant sur une introduction à la théorie des corps et la théorie de Galois, rédigé dans le cadre d'un stage au Laboratoire AGM sous la direction de Nicolas Arancibia Robert. L'objectif principal est de démontrer le théorème fondamental de Galois, ainsi que le théorème de Steinitz sur l'existence et l'unicité de la clôture algébrique pour tout corps."
-date: 2025-07-31
 paperurl: https://petissot.github.io/files/rapport-stage-galois.pdf
 citation: 
 ---
