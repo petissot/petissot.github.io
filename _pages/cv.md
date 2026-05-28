@@ -12,7 +12,7 @@ redirect_from:
 Formation
 ======
 * Diplôme d'ingénieur - Mathématiques Appliquées, spécialisation Finance, CY Tech, 2024 - 2027
-* Classe préparatoire MPSI/MP, Lycée Gustave Monod, Enghien-les-Bains, 2021 - 2024
+* Classe préparatoire MPSI/MP, 2021 - 2024
 * Baccalauréat général mention Bien, spécialités Mathématiques et Physique, 2021
 
 Expérience professionnelle
