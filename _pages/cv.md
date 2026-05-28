@@ -9,56 +9,55 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Formation
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Diplôme d'ingénieur - Mathématiques Appliquées, spécialisation Finance, CY Tech, 2024 - 2027
+* Classe préparatoire MPSI/MP, Lycée Gustave Monod, Enghien-les-Bains, 2021 - 2024
+* Baccalauréat général mention Bien, spécialités Mathématiques et Physique, 2021
 
-Work experience
+Expérience professionnelle
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Juin - Juillet 2025 : Stage de recherche
+  * Laboratoire AGM, Pontoise (affilié à CY Cergy Paris Université et au CNRS)
+  * Étude introductive à la théorie de Galois et la théorie des corps
+  * Rédaction d'un rapport structuré incluant présentations de théorèmes et preuves
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Projets académiques & associatifs
+======
+* Janvier 2026 - Avril 2026 : Simulation d'options parisiennes via Python
+  * Projet en équipe, CY Tech
+  * Étude théorique et numérique des options parisiennes (options à barrière avec contrainte de durée de franchissement)
+  * Implémentation d'algorithmes de pricing par simulation Monte-Carlo en Python (NumPy)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Décembre 2023 - Aujourd'hui : Créateur bénévole de contenu pédagogique
+  * SciencesXpert (sciencesxpert.fr)
+  * Association étudiante dédiée à rendre les sciences accessibles (+1M de vues, 1000 visiteurs mensuels)
+  * Rédaction et relecture de cours de mathématiques (Terminale & 1ère année dans le supérieur)
+  * Correction d'exercices d'oraux de concours (CCINP, Centrale, Mines, X-ENS)
+  * Aide au développement du site Internet
 
-Publications
+Compétences
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* Finance
+  * Gestion de portefeuille
+  * Pricing d'options
+  * Gestion comptable
+  * Macroéconomie et Microéconomie
+  * Introduction à l'assurance
+* Programmation
+  * Python (NumPy, Pandas, Matplotlib)
+  * Excel, VBA
+  * C++, R, Java, LaTeX
+* Mathématiques
+  * Probabilités & Statistiques
+  * Méthodes de Monte-Carlo
+  * EDP
+  * Optimisation linéaire et non-linéaire
+* Langues
+  * Français (natif)
+  * Anglais (courant)
+
+Centres d'intérêt & Soft skills
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Soft skills : Esprit d'analyse, bon relationnel, esprit d'équipe, organisation rigoureuse, ponctualité, déontologie
+* Centres d'intérêt : Musculation, promenade en forêt, lecture (philosophie et romans)
