@@ -6,7 +6,7 @@ permalink: /publication/2025-06-01-introduction-theorie-galois
 excerpt: "Rapport de recherche portant sur la théorie des corps et la théorie de Galois, rédigé dans le cadre d'un stage au Laboratoire AGM sous la direction de Nicolas Arancibia Robert. L'objectif principal est de démontrer le Théorème fondamental de Galois, ainsi que le Théorème de Steinitz sur l'existence et l'unicité de la clôture algébrique."
 date: 2025-06-01
 venue: 'Laboratoire AGM, CY Cergy Paris Université'
-paperurl: ''
+paperurl: 'https://petissot.github.io/files/rapport-galois.pdf''
 citation: 'Tissot, Pierre-Emmanuel. (2025). &quot;Introduction à la Théorie de Galois.&quot; <i>Rapport de recherche</i>. Laboratoire AGM, CY Cergy Paris Université. Dirigé par Nicolas Arancibia Robert.'
 ---
 
